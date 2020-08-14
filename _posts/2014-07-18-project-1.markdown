@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 1
+title: JackalOS
 date: 2014-07-18
-img: cabin.png
-alt: image-alt
+img1: cabin.png
+alt: jackal-logo
+img2: cake.png
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: Open Source (Github)
+category: Open Source O.S Development
+description: JackalOS is an attempt to better understand the working of simple GUI based operating systems, by creating one! It is built using the COSMOS toolkit and is typed in C#. Under Active development with love by Raghav, Abhinav & Sarthak
 ---

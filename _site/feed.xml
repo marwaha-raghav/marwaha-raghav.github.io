@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-08-13T19:40:02+05:30</updated>
+  <updated>2020-08-14T21:37:29+05:30</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,8 +20,8 @@
   
   
     <entry>
-      <title type="html">Project 1</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 1" />
+      <title type="html">JackalOS</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="JackalOS" />
       <published>2014-07-18T00:00:00+05:30</published>
       <updated>2014-07-18T00:00:00+05:30</updated>
       <id>http://localhost:4000/project-1</id>
@@ -40,7 +40,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="Open Source O.S Development" />
       
 
       
