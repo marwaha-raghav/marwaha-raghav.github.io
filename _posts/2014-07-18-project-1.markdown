@@ -2,12 +2,19 @@
 layout: default
 modal-id: 1
 title: JackalOS
-date: 2014-07-18
-img1: cabin.png
-alt: jackal-logo
-img2: cake.png
-project-date: April 2014
-client: Open Source (Github)
+img_front: jackal-operator.jpg
+img1: jackal-boot.png
+alt: unable to load image
+img2: JackalOS-Paint.JPG
+img3: JackalOS-TextRenderer.JPG
+img4: jackal-console.png
+video: yes
+video-link: "https://www.youtube-nocookie.com/embed/dTzSwmvMcj0"
+project-date: Programmer
+project-code: GitHub Repository
 category: Open Source O.S Development
-description: JackalOS is an attempt to better understand the working of simple GUI based operating systems, by creating one! It is built using the COSMOS toolkit and is typed in C#. Under Active development with love by Raghav, Abhinav & Sarthak
+description1: <p style="text-align:centered">JackalOS is a single task, single user and a monolithic operating system. It is an attempt to better understand the working of a simple GUI based operating system, by creating one! It is built using the COSMOS toolkit and is typed in C#. It also features a custom graphic driver developed by the team for the OS. Under Active development by Raghav, Abhinav & Sarthak.</p>
+description2: <p style="text-align:left"> Currently Working Features.<br/>  • Basic GUI, with a proper functioning mouse.<br/> • Working text rendering, with all lower-case characters and numbers.<br/> • Paint Application.<br/> • Prediction Game.<br> • Calculator with four mathematical operations.<br/> • Console with command list support (available on GitHub readme).</p>
+description3: <b>Features under active development (Coming-Soon)<b><br/> • FAT File System.<br/> • Support for upper-case characters and more symbols.<br/> • Support for different brush-sizes in Paint Application.
+
 ---
