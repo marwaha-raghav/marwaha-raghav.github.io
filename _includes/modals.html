@@ -14,31 +14,50 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            {% if post.description %}
-                                <p>{{ post.description }}</p>
+                            {% if post.description1 %}
+                                <p style="text-align:justify">{{ post.description1 }}</p>
                             {% endif %}
+                            <hr class="star-primary">
+                            {% if post.video %}
+                            <iframe width="710" height="512" src= {{post.video-link}} frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            {% endif %}
+                            <img src="img/portfolio/{{ post.img1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <hr class="star-primary">
+                            {% if post.description2 %}
+                                <p>{{ post.description2 }}</p>
+                            {% endif %}
+                            <hr class="star-primary">
+                           <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                           <hr class="star-primary">
+                            {% if post.description3 %}
+                                <p style= "text-align: left">{{post.description3}}</p>
+                            {% endif %}
+                            <hr class="star-primary">
+                           <img src="img/portfolio/{{ post.img3 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                           {% if post.img4 %}
+                                <img src="img/portfolio/{{post.img4}}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                           {% endif %}
                             <ul class="list-inline item-details">
-                                {% if post.client %}
-                                    <li>Client:
-                                        <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                {% if post.project-code %}
+                                    <li>Project Code:
+                                        <strong><a target="_blank" rel="noopener noreferrer" href="https://github.com/marwaha-raghav/JackalOS">{{ post.project-code }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
                                 {% if post.project-date %}
-                                    <li>Date:
+                                    <li>Role:
                                         <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
                                 {% if post.category %}
-                                    <li>Service:
+                                    <li>Category:
                                         <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
                             </ul>
+                            <hr class="star-primary">
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
