@@ -12,12 +12,13 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
+
                             <h2>{{ post.title }}</h2>
-                            <hr class="star-primary">
+                            <hr class="star-try">
                             {% if post.description1 %}
                                 <p style="text-align:justify">{{ post.description1 }}</p>
                             {% endif %}
-                            <hr class="star-primary">
+                            <hr class="star-try">
                             {% if post.video %}
                             <div class="video-container">
                             <iframe width="710" height="512" src= {{post.video-link}} frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
@@ -25,17 +26,17 @@
                             </div>
                             {% endif %}
                             <img src="img/portfolio/{{ post.img1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <hr class="star-primary">
+                            <hr class="star-try">
                             {% if post.description2 %}
                                 <p>{{ post.description2 }}</p>
                             {% endif %}
-                            <hr class="star-primary">
+                            <hr class="star-try">
                            <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                            <hr class="star-primary">
                             {% if post.description3 %}
                                 <p style= "text-align: left">{{post.description3}}</p>
                             {% endif %}
-                            <hr class="star-primary">
+                            <hr class="star-try">
                            <img src="img/portfolio/{{ post.img3 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                            {% if post.img4 %}
                                 <img src="img/portfolio/{{post.img4}}" class="img-responsive img-centered" alt="{{ post.alt }}">
@@ -60,8 +61,9 @@
                                     </li>
                                 {% endif %}
                             </ul>
-                            <hr class="star-primary">
+                            <hr class="star-try">
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+
                         </div>
                     </div>
                 </div>

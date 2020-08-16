@@ -35,7 +35,7 @@ h6 {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
-
+hr.star-try,
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
@@ -47,6 +47,7 @@ hr.star-primary {
     overflow: visible;
 }
 
+hr.star-try:after,
 hr.star-light:after,
 hr.star-primary:after {
     content: "\f005";
@@ -56,6 +57,15 @@ hr.star-primary:after {
     padding: 0 .25em;
     font-family: FontAwesome;
     font-size: 2em;
+}
+
+hr.star-try{
+    border-color: #fff;             /*custom star*/
+}
+
+hr.star-try:after{
+  color: #fff;
+  background-color: green;         /*#{{ site.color.secondary }};*/
 }
 
 hr.star-light {
@@ -83,7 +93,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: #1a222c;   /*{{ site.color.primary }}%  green background ?*/
 }
 
 header .container {
@@ -417,8 +427,11 @@ footer .footer-below {
     padding: 100px 0;
     min-height: 100%;
     border: 0;
-    border-radius: 0;
+    border-radius: 0;                               /*chnages? */
     text-align: center;
+    color: #fff;
+    background-color:#1a222c;
+    opacity: 0.9;
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -453,10 +466,10 @@ footer .footer-below {
 
 .portfolio-modal .close-modal .lr {
     z-index: 1051;
-    width: 1px;
+    width: 3px;
     height: 75px;
     margin-left: 35px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #fff;                                        /*#{{ site.color.secondary }};*/   /*chnage color*/
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -464,9 +477,9 @@ footer .footer-below {
 
 .portfolio-modal .close-modal .lr .rl {
     z-index: 1052;
-    width: 1px;
+    width: 3px;
     height: 75px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #fff;                                              /* #{{ site.color.secondary }};*/
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
@@ -498,3 +511,5 @@ footer .footer-below {
     width: 100%;
     height: 100%;
 }
+#particles-js{background:#1a222c;display:flex;vertical-align:bottom;width:100%;min-height:100vh;background-repeat:no-repeat;background-size:cover;background-attachment:fixed}
+#particles-js .particles-js-canvas-el{width:100%!important;height:100vh!important}
