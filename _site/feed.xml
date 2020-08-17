@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-08-17T19:40:54+05:30</updated>
+  <updated>2020-08-18T00:02:19+05:30</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -88,8 +88,8 @@
     </entry>
   
     <entry>
-      <title type="html">Project 3</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 3" />
+      <title type="html">Arcade Style Space Shooter</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="&lt;h3&gt;Arcade Style Space Shooter&lt;h3&gt;" />
       <published>2014-07-16T00:00:00+05:30</published>
       <updated>2014-07-16T00:00:00+05:30</updated>
       <id>http://localhost:4000/project-3</id>
@@ -108,7 +108,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="Game Development" />
       
 
       
@@ -122,8 +122,8 @@
     </entry>
   
     <entry>
-      <title type="html">Project 4</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 4" />
+      <title type="html">Balance</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Balance" />
       <published>2014-07-15T00:00:00+05:30</published>
       <updated>2014-07-15T00:00:00+05:30</updated>
       <id>http://localhost:4000/project-4</id>
@@ -142,7 +142,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="Game Development" />
       
 
       

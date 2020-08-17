@@ -11,7 +11,7 @@ img4: balance2d-game-over.jpg
 video: yes
 video-link: "https://www.youtube.com/embed/6GX6QXF0jHE"
 project-date: Programmer & Designer
-project-code: Google Play
+project-code: Balance2D on Google Play
 project-link: https://play.google.com/store/apps/details?id=com.NO.MIN10
 category: Game Development
 description1: <p style="text-align:centered"> (Currently in BETA testing)<br/> Built using the Unity Game Engine and typed in C#.<br/> Accept the challenge and survive to achieve as high of a score as you can! Simple and addictive game! Just hop in and balance the log to save yourself from the lava!!.<br/> <b>Balance2D is available to download for free on the Google Play Store.<b></p>

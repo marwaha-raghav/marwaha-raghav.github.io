@@ -1,11 +1,20 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: <h3>Arcade Style Space Shooter<h3>
+img_front: space-shooter-banner(1).png
+img1: space-shooter1.png
+alt: unable to load image
+img2: space-shooter2.png
+img3: space-shooter3.png
+img4: space-shooter4.png
+video: yes
+video-link: "https://www.youtube.com/embed/6GX6QXF0jHE"
+project-date: Programmer & Designer
+project-code: GitHub Repository
+project-link: https://github.com/marwaha-raghav/SpaceShooterGame
+category: Game Development
+description1: <p style="text-align:centered">This portfolio contains the independent project known as “Space Shooter” that I worked on, The entire project in its current state is available as a repository on my GitHub. The development of the project was done on Unity game engine in C# using some free assets from the store as well as the assets provided in the starter pack. Background art was designed by me.</p>
+description2: <p style="text-align:left"> <b>The Idea Behind the Game<b><br/> The objective was to give the player an arcade game like experience, where the player could survive as long as possible by avoiding the incoming asteroids by either dodging them or by shooting and destroying them, also boss levels were to be added.</p>
+description3: The player ship has the ability to move left and right in order to be able to to dodge the asteroids. On the P.C version the keys are A and D in their usual manner. On mobile the on screen controls are divided from the middle of the screen, that is if touch is detected on the left half of the screen, the ship moves left and in the other case, it moves right. The player has limited ammunition to shoot the asteroids out of the ship's path.
 ---

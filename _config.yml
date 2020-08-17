@@ -1,9 +1,9 @@
 # Site settings
 title: Raghav Marwaha
 email: raghavmarwaha1998@gmail.com
-url: https://github.com/jeromelachaud/freelancer-theme
+url: https://marwaha-raghav.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+keywords: "Raghav, Marwaha, raghav, marwaha, game, developer, programmer, cybersecurity, portfolio, cv, resume, unity"
 skills: "Indie Game Developer - Engineer - Cyber Security Enthusiast"
 meta_author: Marwaha Raghav
 
@@ -17,7 +17,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+#contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -39,14 +39,15 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: linkedin
-    url: http://linkedin.com/in/raghav-marwaha-7a9640167
-  #- title: bitbucket
-  #  url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/marwaha-raghav
+  - title: linkedin
+    url: http://linkedin.com/in/raghav-marwaha-7a9640167
+  - title: envelope
+    url: mailto:raghavmarwaha1998@gmail.com
+  - title: gamepad
+    url: https://play.google.com/store/apps/developer?id=Raghav+Marwaha
+
 
 # Postal address (add as many lines as necessary)
 #address:
