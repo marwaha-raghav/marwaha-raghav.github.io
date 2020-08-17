@@ -54,7 +54,7 @@ social:
   #- line: Beverly Hills, CA 90210
 
 # Credits content
-credits: "Built with Jekyll using Freelancer, An open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>."
+credits: Built with Jekyll using Freelancer, An open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
 
 # Build settings
 markdown: kramdown
