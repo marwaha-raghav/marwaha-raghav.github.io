@@ -12,6 +12,7 @@ video: yes
 video-link: "https://www.youtube-nocookie.com/embed/dTzSwmvMcj0"
 project-date: Programmer
 project-code: GitHub Repository
+project-link: https://github.com/marwaha-raghav/JackalOS
 category: Open Source O.S Development
 description1: <p style="text-align:centered">JackalOS is a single task, single user and a monolithic operating system. It is an attempt to better understand the working of a simple GUI based operating system, by creating one! It is built using the COSMOS toolkit and is typed in C#. It also features a custom graphic driver developed by the team for the OS. Under Active development by Raghav, Abhinav & Sarthak.</p>
 description2: <p style="text-align:left"> Currently Working Features.<br/>  • Basic GUI, with a proper functioning mouse.<br/> • Working text rendering, with all lower-case characters and numbers.<br/> • Paint Application.<br/> • Prediction Game.<br> • Calculator with four mathematical operations.<br/> • Console with command list support (available on GitHub readme).</p>

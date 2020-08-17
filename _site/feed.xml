@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-08-16T20:42:48+05:30</updated>
+  <updated>2020-08-17T18:35:56+05:30</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -54,8 +54,8 @@
     </entry>
   
     <entry>
-      <title type="html">Project 2</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 2" />
+      <title type="html">Balance2d</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Balance2d" />
       <published>2014-07-17T00:00:00+05:30</published>
       <updated>2014-07-17T00:00:00+05:30</updated>
       <id>http://localhost:4000/project-2</id>
@@ -74,7 +74,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="Game Development" />
       
 
       

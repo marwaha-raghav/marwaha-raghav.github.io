@@ -1,11 +1,20 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: Balance2d
+img_front: balance2d-banner(2).png
+img1: balance2d-menu.jpg
+alt: unable to load image
+img2: balance2d-gameplay-image.jpg
+img3: balance2d-gameplay-image2.jpg
+img4: balance2d-game-over.jpg
+video: yes
+video-link: "https://www.youtube.com/embed/6GX6QXF0jHE"
+project-date: Programmer & Designer
+project-code: Google Play
+project-link: https://play.google.com/store/apps/details?id=com.NO.MIN10
+category: Game Development
+description1: <p style="text-align:centered"> (Currently in BETA testing)<br/> Built using the Unity Game Engine and typed in C#.<br/> Accept the challenge and survive to achieve as high of a score as you can! Simple and addictive game! Just hop in and balance the log to save yourself from the lava!!.<br/> <b>Balance2D is available to download for free on the Google Play Store.<b></p>
+description2: <p style="text-align:left"> GAME FEATURES-<br/> -Endless fun with challenging enemy monsters falling from the sky.<br/> -Clean art style for a simple and enjoyable experience.<br/> -Simple screen controls.<br/> -Leader boards to compete with strangers across the globe. (coming soon)</p>
+description3: <b>The Idea Behind the Game<b><br/> Balance2D is a simple and fun to play game of the hypercasual game genre. The player has the ability to move left and right in order to be able to to balance the log. On mobile devices the on screen controls are divided from the middle of the screen, that is if touch is detected on the left half of the screen, the player model moves left and in the other case, it moves right.
 ---
