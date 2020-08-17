@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 title: Balance2d
-img_front: balance2d-banner(2).png
+img_front: balance2d-banner-final.png
 img1: balance2d-menu.jpg
 alt: unable to load image
 img2: balance2d-gameplay-image.jpg
