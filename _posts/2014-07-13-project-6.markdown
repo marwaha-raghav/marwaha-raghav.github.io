@@ -1,11 +1,20 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: V-NAV
+img_front: aim-trainer-banner.png
+img1: aim-trainer1.png
+alt: unable to load image
+img2: aim-trainer2.png
+img3: aim-trainer3.png
+img4: aim-trainer5.png
+video: yes
+video-link: "https://www.youtube.com/embed/6GX6QXF0jHE"
+project-date: Programmer & Designer
+project-code: GitHub Repository
+project-link: https://github.com/marwaha-raghav/V-Nav-Virtual-Navigation-Environment-
+category: Environment/Level Design
+description1: <p style="text-align:centered"> This portfolio contains the independent demo reel project “PROJECT FPS”. The development of the project was done on Unity game engine in C# . Some free assets from the store as well as the assets provided by devassets.com were used to model the environment. Weapons and some environment meshes were modelled in 3ds max by me. The objective was to give the player freedom to be able to shoot or melee most of the objects in the environment using different weapons.</p>
+description2: <p style="text-align:left"> GAME FEATURES-<br/>  The level contained a few weapon choices for the player to choose from ranging from guns to melee weapons. Like any other FPS sprinting, jumping, crouching and prone mechanics were available to the player.</p>
+description3: Muzzle Flash was added to all the weapons. Recoil unique to each weapon was also added. The bullet system and hit registeration was designed around the concept of raycasting. Reload system was also added. physics to bullets and other environment meshes was also added, particle effect on hit registeration by a mesh led to a small spark or explosion. Enemy was added and was fully destructible. small part of UI had been completed like addition of cross hairs and FPS counter.
 ---

@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-08-18T00:31:53+05:30</updated>
+  <updated>2020-08-23T17:08:56+05:30</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -122,8 +122,8 @@
     </entry>
   
     <entry>
-      <title type="html">Balance</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Balance" />
+      <title type="html">AIM TRAINER</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="AIM TRAINER" />
       <published>2014-07-15T00:00:00+05:30</published>
       <updated>2014-07-15T00:00:00+05:30</updated>
       <id>http://localhost:4000/project-4</id>
@@ -156,42 +156,8 @@
     </entry>
   
     <entry>
-      <title type="html">Project 6</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 6" />
-      <published>2014-07-15T00:00:00+05:30</published>
-      <updated>2014-07-15T00:00:00+05:30</updated>
-      <id>http://localhost:4000/project-6</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 5</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 5" />
+      <title type="html">Forest environment</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Forest environment" />
       <published>2014-07-14T00:00:00+05:30</published>
       <updated>2014-07-14T00:00:00+05:30</updated>
       <id>http://localhost:4000/project-5</id>
@@ -210,7 +176,41 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="Environment/Level Design" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">V-NAV</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="V-NAV" />
+      <published>2014-07-13T00:00:00+05:30</published>
+      <updated>2014-07-13T00:00:00+05:30</updated>
+      <id>http://localhost:4000/project-6</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Environment/Level Design" />
       
 
       

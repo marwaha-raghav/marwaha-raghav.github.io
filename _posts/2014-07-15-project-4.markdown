@@ -1,20 +1,21 @@
 ---
 layout: default
 modal-id: 4
-title: Balance
-img_front: balance2d-banner-final.png
-img1: balance2d-menu.jpg
+title: AIM TRAINER
+img_front: aim-trainer-banner.png
+img1: aim-trainer1.png
 alt: unable to load image
-img2: balance2d-gameplay-image.jpg
-img3: balance2d-gameplay-image2.jpg
-img4: balance2d-game-over.jpg
+img2: aim-trainer2.png
+img3: aim-trainer3.png
+img4: aim-trainer5.png
 video: yes
-video-link: "https://www.youtube.com/embed/6GX6QXF0jHE"
+video-link: "https://www.youtube.com/embed/iLANASjeOVA"
 project-date: Programmer & Designer
-project-code: Balance2D on Google Play
-project-link: https://play.google.com/store/apps/details?id=com.NO.MIN10
+project-code: Demo Reel
+project-link: https://drive.google.com/drive/folders/1HaXF0-llReS5CYqRF5V2HLIsvOl9w35e?usp=sharing
 category: Game Development
-description1: <p style="text-align:centered"> (Currently in BETA testing)<br/> Built using the Unity Game Engine and typed in C#.<br/> Accept the challenge and survive to achieve as high of a score as you can! Simple and addictive game! Just hop in and balance the log to save yourself from the lava!!.<br/> <b>Balance2D is available to download for free on the Google Play Store.<b></p>
-description2: <p style="text-align:left"> GAME FEATURES-<br/> -Endless fun with challenging enemy monsters falling from the sky.<br/> -Clean art style for a simple and enjoyable experience.<br/> -Simple screen controls.<br/> -Leader boards to compete with strangers across the globe. (coming soon)</p>
-description3: <b>The Idea Behind the Game<b><br/> Balance2D is a simple and fun to play game of the hypercasual game genre. The player has the ability to move left and right in order to be able to to balance the log. On mobile devices the on screen controls are divided from the middle of the screen, that is if touch is detected on the left half of the screen, the player model moves left and in the other case, it moves right.
+description1: <p style="text-align:centered"> This portfolio contains the independent demo reel project “PROJECT FPS”. The development of the project was done on Unity game engine in C# . Some free assets from the store as well as the assets provided by devassets.com were used to model the environment. Weapons and some environment meshes were modelled in 3ds max by me. The objective was to give the player freedom to be able to shoot or melee most of the objects in the environment using different weapons.</p>
+description2: <p style="text-align:left"> GAME FEATURES-<br/>  The level contained a few weapon choices for the player to choose from ranging from guns to melee weapons. Like any other FPS sprinting, jumping, crouching and prone mechanics were available to the player.</p>
+description3: Muzzle Flash was added to all the weapons. Recoil unique to each weapon was also added. The bullet system and hit registeration was designed around the concept of raycasting. Reload system was also added. physics to bullets and other environment meshes was also added, particle effect on hit registeration by a mesh led to a small spark or explosion. Enemy was added and was fully destructible. small part of UI had been completed like addition of cross hairs and FPS counter.
+
 ---
