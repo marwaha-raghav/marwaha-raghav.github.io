@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-title: AIM TRAINER
+title: <h3>AIM TRAINER</h3>
 img_front: aim-trainer-banner.png
 img1: aim-trainer1.png
 alt: unable to load image

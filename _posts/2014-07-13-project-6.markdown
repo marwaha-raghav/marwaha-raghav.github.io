@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-title: V-NAV
+title: <h3>V-NAV</h3>
 img_front: aim-trainer-banner.png
 img1: aim-trainer1.png
 alt: unable to load image
