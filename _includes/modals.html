@@ -15,6 +15,28 @@
 
                             <h2>{{ post.title }}</h2>
                             <hr class="star-try">
+                            <ul class="list-inline item-details">
+                                {% if post.project-code %}
+                                    <li>Project:
+                                        <strong><a target="_blank" rel="noopener noreferrer" href="{{ post.project-link }}">{{ post.project-code }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
+                                {% if post.project-date %}
+                                    <li>Role:
+                                        <strong><a target="_blank" rel="noopener noreferrer" href="{{ post.project-link }}">{{ post.project-date }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
+                                {% if post.category %}
+                                    <li>Category:
+                                        <strong><a target="_blank" rel="noopener noreferrer" href="{{ post.project-link }}">{{ post.category }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
+                            </ul>
+                          
+
                             {% if post.description1 %}
                                 <p style="text-align:justify">{{ post.description1 }}</p>
                             {% endif %}

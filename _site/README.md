@@ -1,7 +1,7 @@
 Raghav Marwaha Portfolio  [![Build Status](https://marwaha-raghav.github.io)](https://marwaha-raghav.github.io/)
 =========================
 
-##Credits
+## Credits
 Built using Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
 ## Demo
