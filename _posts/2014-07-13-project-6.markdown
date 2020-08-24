@@ -2,19 +2,20 @@
 layout: default
 modal-id: 6
 title: <h3>V-NAV</h3>
-img_front: aim-trainer-banner.png
-img1: aim-trainer1.png
+img_front: city_img1.PNG
+img1: city_img2.PNG
 alt: unable to load image
-img2: aim-trainer2.png
-img3: aim-trainer3.png
-img4: aim-trainer5.png
+img2: city_img3.PNG
+img3: city_im4.PNG
+img4: city_img6.PNG
+img5: city_img5.PNG
 video: yes
 video-link: "https://www.youtube.com/embed/6GX6QXF0jHE"
 project-date: Programmer & Designer
 project-code: GitHub Repository
 project-link: https://github.com/marwaha-raghav/V-Nav-Virtual-Navigation-Environment-
 category: Environment/Level Design
-description1: <p style="text-align:centered"> This portfolio contains the independent demo reel project “PROJECT FPS”. The development of the project was done on Unity game engine in C# . Some free assets from the store as well as the assets provided by devassets.com were used to model the environment. Weapons and some environment meshes were modelled in 3ds max by me. The objective was to give the player freedom to be able to shoot or melee most of the objects in the environment using different weapons.</p>
-description2: <p style="text-align:left"> GAME FEATURES-<br/>  The level contained a few weapon choices for the player to choose from ranging from guns to melee weapons. Like any other FPS sprinting, jumping, crouching and prone mechanics were available to the player.</p>
-description3: Muzzle Flash was added to all the weapons. Recoil unique to each weapon was also added. The bullet system and hit registeration was designed around the concept of raycasting. Reload system was also added. physics to bullets and other environment meshes was also added, particle effect on hit registeration by a mesh led to a small spark or explosion. Enemy was added and was fully destructible. small part of UI had been completed like addition of cross hairs and FPS counter.
+description1: <p style="text-align:centered"> This portfolio contains an environment called V-Nav (Virtual Navigation) created in the Unity3D framework. I used Unity3D game engine to manually design scenes with common urban structures and add freely available 3D assets, representing foreground classes, to the scene. Manually generating the scene facilitates in generating annotations such as pixel wise labels very easily, Which eliminates the need for manually labaelling images for training a network. <b><i>The main purpose of designing this environment was to collect images to create a custom Synthetic Dataset of an Urban Environment, which can be used to train Neural Networks for various Computer Vision Applications<i><b>.</p>
+description2: <p style="text-align:left">FEATURES-<br/>  - Sufficiently large Urban Environment- that can be used in a game scene or for collection of images for a synthetic dataset.<br/> - Contains a Custom Built Stereo Vision Camera script in C# (Shown in sample image 4).<br/> - Standard car model for easy navigation.<br/> - Unity images Synthesis Library for easy generation of depth maps, normals etc is included.<br/> - Easily Customizable by end user, as various free to use assets are included in the project.<br/> - Post Processing effects such as ambient occulusion, color grading and vignette have been used to beautify the environment. (can be turned off if needed)</p>
+description3: As can be seen from the sample images and demo video V-Nav is still under active construction. Although V-Nav does not have photo-realistic textures like those of AAA game titles, it can be of good use for creating game levels for starting out Indie Game Developers and also for researchers looking actively to collect a viable synthetic data set of an urban seeting from an environment ie Completely Open Source.
 ---
