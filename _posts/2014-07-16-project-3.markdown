@@ -8,7 +8,7 @@ alt: unable to load image
 img2: space-shooter2.png
 img3: space-shooter3.png
 img4: space-shooter4.png
-video: yes
+#video: yes
 video-link: "https://www.youtube.com/embed/6GX6QXF0jHE"
 project-date: Programmer & Designer
 project-code: GitHub Repository

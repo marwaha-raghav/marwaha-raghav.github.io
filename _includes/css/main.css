@@ -195,6 +195,11 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
+section.expertise {
+    color: #fff;
+    background: #1a222c;
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
