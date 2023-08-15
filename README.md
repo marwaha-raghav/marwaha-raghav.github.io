@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/marwaha-raghav/marwaha-raghav.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/marwaha-raghav/marwaha-raghav.github.io/actions/workflows/pages/pages-build-deployment)
+
 Raghav Marwaha Portfolio  [![Build Status](https://marwaha-raghav.github.io)](https://marwaha-raghav.github.io/)
 =========================
 
@@ -12,3 +14,5 @@ View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-the
 
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
+
+
